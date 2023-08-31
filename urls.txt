@@ -1,0 +1,4 @@
+https://www.wikipedia.org/
+https://openweathermap.org/
+test_to_check_error_logging_and_moving_on_to_next_link
+https://stackoverflow.com
